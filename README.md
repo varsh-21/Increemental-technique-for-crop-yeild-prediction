@@ -1,0 +1,1 @@
+# Increemental-technique-for-crop-yeild-prediction
