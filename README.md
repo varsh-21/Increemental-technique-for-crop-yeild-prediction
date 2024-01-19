@@ -13,5 +13,3 @@ Project By :)
 |Sanjana R| Sanjana SS | Sriranjini R Vasista | Varshitha B R | 
 Under the guidance of Mr. Vishruth B Gowda 
 ___
-
-
