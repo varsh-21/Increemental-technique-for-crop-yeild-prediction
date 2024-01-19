@@ -14,4 +14,4 @@ Project By :)
 Under the guidance of Mr. Vishruth B Gowda 
 ___
 
-![crop_yeild_2021](https://github.com/varsh-21/Increemental-technique-for-crop-yeild-prediction/assets/75927392/db21375e-d2e4-4cf1-aa5e-e7d6e0c9f164)
+
